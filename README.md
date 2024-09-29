@@ -45,11 +45,11 @@ Isso instalará a biblioteca `qrcode` e suas dependências necessárias para o f
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/GATOROXO/HackathonMT-Unilocaliza.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu_repositorio
+   cd /code2.py
    ```
 3. Instale as bibliotecas necessárias:
    ```bash
@@ -59,7 +59,7 @@ Isso instalará a biblioteca `qrcode` e suas dependências necessárias para o f
 ## Uso
 1. Execute o script:
    ```bash
-   python nome_do_script.py
+   python code2.py
    ```
 2. Faça login com as credenciais padrão:
    - Usuário: `fiscal`
@@ -69,6 +69,4 @@ Isso instalará a biblioteca `qrcode` e suas dependências necessárias para o f
 ## Contribuição
 Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
-Este projeto está licenciado sob a [Licença XYZ](link_da_licença).
 
