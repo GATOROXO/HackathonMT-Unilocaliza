@@ -1,10 +1,6 @@
 # HackathonMT-Unilocaliza
 Prosposta do codigo criado para gerenciamento de entrada e saida de patrimonios 
 
-
-Ótimo! Aqui está um esboço para o README.md:
-
-```markdown
 # Gerenciador de Patrimônios
 
 ## Descrição
@@ -47,6 +43,4 @@ Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Licença
 Este projeto está licenciado sob a [Licença XYZ](link_da_licença).
-```
 
-Se precisar de ajustes ou mais informações, é só me avisar!
